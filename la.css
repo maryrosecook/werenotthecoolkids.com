@@ -1,0 +1,80 @@
+body
+{
+	margin: 0px 0px 0px 0px;
+}
+
+.pink A:link {color: #000000;}
+.pink A:visited {color: #000000;}
+.pink A:active {color: #000000;}
+.pink A:hover {color: #EF4800;}
+
+#leftcontent
+{
+	align:center;
+	width:95%;
+	background:#fff;
+	margin-right:15px;
+	padding-bottom:20px;
+	padding-top:0px;
+}
+
+.pink p,h1,pre
+{
+	margin:10px 10px 10px 16px;
+	color: #000000;
+	font-size:12px;
+	font-family: 'courier new';
+	font-weight: normal;
+}
+
+.pink h1
+{
+	color: #FF99CC;
+	font-size:110px;
+	font-family: 'courier new';
+}
+
+.pink h2
+{
+	margin:10px 10px 10px 10px;
+	color: #000000;
+	font-size:12px;
+	font-family: 'courier new';
+	font-weight: normal;
+}
+
+.pink h3
+{
+	margin:0px 30px 10px 30px;
+	color: #000000;
+	font-size:14px;
+	font-family: 'courier new';
+	font-weight: normal;
+}
+
+.pink h4
+{
+	margin:0px 30px 10px 30px;
+	color: #000000;
+	font-size:30px;
+	font-family: 'courier new';
+	font-weight: normal;
+}
+
+.pink h5
+{
+	margin:10px 10px 10px 10px;
+	color: #000000;
+	font-size:14px;
+	font-family: 'courier new';
+	font-weight: bold;
+}
+
+.pink h6
+{
+	margin:10px 10px 10px 10px;
+	color: #000000;
+	font-size:14px;
+	font-family: 'courier new';
+	font-weight: normal;
+}
